@@ -23,4 +23,10 @@ __hungry__
    * Item 3a
    1. Item 3a-1
 
-![Nkust logo](logo.png,"Nkust")
+![Nkust logo](logo.png "NKUST")
+[NKUST](https://www.nkust.edu.tw/)
+
+As kayne West said:
+
+> We're living the future
+> the presenrt is our past.
