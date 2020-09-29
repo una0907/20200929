@@ -51,3 +51,20 @@ cookies = "10"
 number = 10 / (5 * int(cookies) + 2)
 print(number, 10/52)
 ```
+
+## `Markdown`
+
+| First | Second | Third |
+|:-------- |:---------:|-----------:|
+|cell 1jijij | cell 2 | cell 3 |
+
+
+:+1:
+:rocket:
+:sparkles:
+
+
+
+
+
+
