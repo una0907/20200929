@@ -30,3 +30,24 @@ As kayne West said:
 
 > We're living the future
 > the presenrt is our past.
+
+
+\*literal asterisks\
+
+\(literal asterisks\)
+
+\{literal asterisks\}
+
+- [x] @mentions
+- [ ] this is empty
+
+```javascript
+var x, y, z;
+```
+
+
+```python
+cookies = "10"
+number = 10 / (5 * int(cookies) + 2)
+print(number, 10/52)
+```
